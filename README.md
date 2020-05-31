@@ -10,8 +10,8 @@ It may not look like much but there are specific rules to follow to make This fo
 Titleize is extremely simple to use. Just pass your string to the function and its done! Example:
 
 ```python
-import Titleize
-print(Titleize("i like to look at birds. Birds are really cool animals."))
+import titleize
+print(titleize.titleize("i like to look at birds. Birds are really cool animals."))
 ```
 
 That would output
@@ -20,4 +20,4 @@ That would output
 I Like to Look At Birds. Birds Are Really Cool Animals.
 ```
 
-Pretty cool, right? What are you waiting for? Install it now with `pip install Titleize`
+Pretty cool, right? What are you waiting for? Install it now with `pip install titleize`
